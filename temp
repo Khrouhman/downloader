@@ -1,0 +1,447 @@
+Keywords for directory names:
+-----------------------------
+allow_live_comments
+  False
+approved_at_utc
+  None
+approved_by
+  None
+archived
+  True
+author
+  Amaryllxs
+author_flair_background_color
+  None
+author_flair_css_class
+  None
+author_flair_template_id
+  None
+author_flair_text
+  None
+author_flair_text_color
+  None
+author_flair_type
+  text
+author_fullname
+  t2_5bhq4xtx
+author_is_blocked
+  False
+author_patreon_flair
+  False
+author_premium
+  False
+banned_at_utc
+  None
+banned_by
+  None
+bkey
+  
+can_gild
+  False
+can_mod_post
+  False
+category
+  reddit
+ckey
+  
+clicked
+  False
+content_categories
+  None
+contest_mode
+  False
+created
+  1733315767.0
+created_utc
+  1733315767.0
+date
+  2024-12-04 12:36:07
+discussion_type
+  None
+distinguished
+  None
+domain
+  i.redd.it
+downs
+  0
+edited
+  False
+gilded
+  0
+hidden
+  False
+hide_score
+  False
+id
+  1h6eyr9
+is_created_from_ads_ui
+  False
+is_crosspostable
+  False
+is_meta
+  False
+is_original_content
+  False
+is_reddit_media_domain
+  True
+is_robot_indexable
+  True
+is_self
+  False
+is_video
+  False
+likes
+  None
+link_flair_background_color
+  
+link_flair_css_class
+  None
+link_flair_text
+  None
+link_flair_text_color
+  dark
+link_flair_type
+  text
+locked
+  False
+media
+  None
+media_only
+  False
+mod_note
+  None
+mod_reason_by
+  None
+mod_reason_title
+  None
+name
+  t3_1h6eyr9
+no_follow
+  False
+num_comments
+  729
+num_crossposts
+  0
+num_duplicates
+  0
+num_reports
+  None
+over_18
+  False
+permalink
+  /r/drawme/comments/1h6eyr9/draw_me_any_art_style_is_fine/
+pinned
+  False
+post_hint
+  image
+preview['enabled']
+  True
+preview['images'][N]['id']
+  xXVor16qde6-cBJWB0mgVIt158hgli2w4o9jqyERHfE
+preview['images'][N]['resolutions'][N]['height']
+  196
+preview['images'][N]['resolutions'][N]['url']
+  https://preview.redd.it/n9519zkott4e1.jpeg?width=108&crop=smart&auto=webp&s=2bdbaf5a238b825557a17f23fd017a0f1f917629
+preview['images'][N]['resolutions'][N]['width']
+  108
+preview['images'][N]['source']['height']
+  2340
+preview['images'][N]['source']['url']
+  https://preview.redd.it/n9519zkott4e1.jpeg?auto=webp&s=6fd3a8780804c980bea1199a19fb972d4cc899b2
+preview['images'][N]['source']['width']
+  1283
+pwls
+  7
+quarantine
+  False
+removal_reason
+  None
+removed_by
+  None
+removed_by_category
+  None
+report_reasons
+  None
+saved
+  False
+score
+  8742
+secure_media
+  None
+selftext
+  
+selftext_html
+  None
+send_replies
+  True
+spoiler
+  False
+stickied
+  False
+subcategory
+  submission
+subreddit
+  drawme
+subreddit_id
+  t5_2rf5w
+subreddit_name_prefixed
+  r/drawme
+subreddit_subscribers
+  518793
+subreddit_type
+  public
+suggested_sort
+  None
+thumbnail
+  https://b.thumbs.redditmedia.com/AmZ9Ha6AhYthBxxTB5QLqk3nllYLJvEnAMYLLA_39KA.jpg
+thumbnail_height
+  140
+thumbnail_width
+  140
+title
+  Draw me? Any art style is fine
+top_awarded_type
+  None
+total_awards_received
+  0
+ups
+  8742
+upvote_ratio
+  0.96
+url
+  https://i.redd.it/n9519zkott4e1.jpeg
+url_overridden_by_dest
+  https://i.redd.it/n9519zkott4e1.jpeg
+view_count
+  None
+visited
+  False
+wls
+  7
+
+Keywords for filenames and --filter:
+------------------------------------
+allow_live_comments
+  False
+approved_at_utc
+  None
+approved_by
+  None
+archived
+  True
+author
+  Amaryllxs
+author_flair_background_color
+  None
+author_flair_css_class
+  None
+author_flair_template_id
+  None
+author_flair_text
+  None
+author_flair_text_color
+  None
+author_flair_type
+  text
+author_fullname
+  t2_5bhq4xtx
+author_is_blocked
+  False
+author_patreon_flair
+  False
+author_premium
+  False
+banned_at_utc
+  None
+banned_by
+  None
+bkey
+  
+can_gild
+  False
+can_mod_post
+  False
+category
+  reddit
+ckey
+  
+clicked
+  False
+content_categories
+  None
+contest_mode
+  False
+created
+  1733315767.0
+created_utc
+  1733315767.0
+date
+  2024-12-04 12:36:07
+discussion_type
+  None
+distinguished
+  None
+domain
+  i.redd.it
+downs
+  0
+edited
+  False
+extension
+  jpeg
+filename
+  n9519zkott4e1
+gilded
+  0
+hidden
+  False
+hide_score
+  False
+id
+  1h6eyr9
+is_created_from_ads_ui
+  False
+is_crosspostable
+  False
+is_meta
+  False
+is_original_content
+  False
+is_reddit_media_domain
+  True
+is_robot_indexable
+  True
+is_self
+  False
+is_video
+  False
+likes
+  None
+link_flair_background_color
+  
+link_flair_css_class
+  None
+link_flair_text
+  None
+link_flair_text_color
+  dark
+link_flair_type
+  text
+locked
+  False
+media
+  None
+media_only
+  False
+mod_note
+  None
+mod_reason_by
+  None
+mod_reason_title
+  None
+name
+  t3_1h6eyr9
+no_follow
+  False
+num
+  0
+num_comments
+  729
+num_crossposts
+  0
+num_duplicates
+  0
+num_reports
+  None
+over_18
+  False
+permalink
+  /r/drawme/comments/1h6eyr9/draw_me_any_art_style_is_fine/
+pinned
+  False
+post_hint
+  image
+preview['enabled']
+  True
+preview['images'][N]['id']
+  xXVor16qde6-cBJWB0mgVIt158hgli2w4o9jqyERHfE
+preview['images'][N]['resolutions'][N]['height']
+  196
+preview['images'][N]['resolutions'][N]['url']
+  https://preview.redd.it/n9519zkott4e1.jpeg?width=108&crop=smart&auto=webp&s=2bdbaf5a238b825557a17f23fd017a0f1f917629
+preview['images'][N]['resolutions'][N]['width']
+  108
+preview['images'][N]['source']['height']
+  2340
+preview['images'][N]['source']['url']
+  https://preview.redd.it/n9519zkott4e1.jpeg?auto=webp&s=6fd3a8780804c980bea1199a19fb972d4cc899b2
+preview['images'][N]['source']['width']
+  1283
+pwls
+  7
+quarantine
+  False
+removal_reason
+  None
+removed_by
+  None
+removed_by_category
+  None
+report_reasons
+  None
+saved
+  False
+score
+  8742
+secure_media
+  None
+selftext
+  
+selftext_html
+  None
+send_replies
+  True
+spoiler
+  False
+stickied
+  False
+subcategory
+  submission
+subreddit
+  drawme
+subreddit_id
+  t5_2rf5w
+subreddit_name_prefixed
+  r/drawme
+subreddit_subscribers
+  518793
+subreddit_type
+  public
+suggested_sort
+  None
+thumbnail
+  https://b.thumbs.redditmedia.com/AmZ9Ha6AhYthBxxTB5QLqk3nllYLJvEnAMYLLA_39KA.jpg
+thumbnail_height
+  140
+thumbnail_width
+  140
+title
+  Draw me? Any art style is fine
+top_awarded_type
+  None
+total_awards_received
+  0
+ups
+  8742
+upvote_ratio
+  0.96
+url
+  https://i.redd.it/n9519zkott4e1.jpeg
+url_overridden_by_dest
+  https://i.redd.it/n9519zkott4e1.jpeg
+view_count
+  None
+visited
+  False
+wls
+  7

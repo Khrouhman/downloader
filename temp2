@@ -1,0 +1,273 @@
+Keywords for directory names:
+-----------------------------
+account_id
+  173086909
+album['account']['avatar_url']
+  https://i.imgur.com/3V1jX0n_d.png?maxwidth=290&fidelity=grand
+album['account']['created_at']
+  2023-08-01T23:21:29Z
+album['account']['id']
+  173086909
+album['account']['username']
+  nevermas
+album['account_id']
+  173086909
+album['comment_count']
+  11
+album['cover_id']
+  D5aNHts
+album['created_at']
+  2025-07-03T21:40:45Z
+album['date']
+  2025-07-03 21:40:45
+album['description']
+  
+album['downvote_count']
+  10
+album['favorite']
+  False
+album['favorite_count']
+  0
+album['id']
+  bg44Uxf
+album['image_count']
+  5
+album['in_most_viral']
+  True
+album['include_album_ads']
+  False
+album['is_ad']
+  False
+album['is_album']
+  True
+album['is_mature']
+  False
+album['is_pending']
+  False
+album['platform']
+  api
+album['point_count']
+  141
+album['privacy']
+  private
+album['score']
+  0
+album['seo_title']
+  just-another-enji-night-post-to-brighten-day
+album['shared_with_community']
+  True
+album['tags'][N]['accent']
+  633875
+album['tags'][N]['background_id']
+  9r1qCDq
+album['tags'][N]['display']
+  Funny
+album['tags'][N]['is_promoted']
+  False
+album['tags'][N]['tag']
+  funny
+album['title']
+  Just another Enji Night post to brighten your day.
+album['updated_at']
+  None
+album['upvote_count']
+  151
+album['url']
+  https://imgur.com/a/bg44Uxf
+album['view_count']
+  4542
+album['virality']
+  0
+album['vote']
+  None
+basename
+  
+bkey
+  
+category
+  imgur
+ckey
+  
+count
+  5
+created_at
+  2025-07-03T21:40:37Z
+date
+  2025-07-03 21:40:37
+description
+  Been posting a lot of Enji Night lately. I regert nothing. Not one letter.
+duration
+  0
+ext
+  png
+extension
+  png
+filename
+  D5aNHts
+has_sound
+  False
+height
+  1200
+id
+  D5aNHts
+is_animated
+  False
+is_looping
+  False
+mime_type
+  image/png
+name
+  
+num
+  1
+size
+  536095
+subcategory
+  album
+title
+  
+type
+  image
+updated_at
+  None
+url
+  https://i.imgur.com/D5aNHts.png
+width
+  800
+
+Keywords for filenames and --filter:
+------------------------------------
+account_id
+  173086909
+album['account']['avatar_url']
+  https://i.imgur.com/3V1jX0n_d.png?maxwidth=290&fidelity=grand
+album['account']['created_at']
+  2023-08-01T23:21:29Z
+album['account']['id']
+  173086909
+album['account']['username']
+  nevermas
+album['account_id']
+  173086909
+album['comment_count']
+  11
+album['cover_id']
+  D5aNHts
+album['created_at']
+  2025-07-03T21:40:45Z
+album['date']
+  2025-07-03 21:40:45
+album['description']
+  
+album['downvote_count']
+  10
+album['favorite']
+  False
+album['favorite_count']
+  0
+album['id']
+  bg44Uxf
+album['image_count']
+  5
+album['in_most_viral']
+  True
+album['include_album_ads']
+  False
+album['is_ad']
+  False
+album['is_album']
+  True
+album['is_mature']
+  False
+album['is_pending']
+  False
+album['platform']
+  api
+album['point_count']
+  141
+album['privacy']
+  private
+album['score']
+  0
+album['seo_title']
+  just-another-enji-night-post-to-brighten-day
+album['shared_with_community']
+  True
+album['tags'][N]['accent']
+  633875
+album['tags'][N]['background_id']
+  9r1qCDq
+album['tags'][N]['display']
+  Funny
+album['tags'][N]['is_promoted']
+  False
+album['tags'][N]['tag']
+  funny
+album['title']
+  Just another Enji Night post to brighten your day.
+album['updated_at']
+  None
+album['upvote_count']
+  151
+album['url']
+  https://imgur.com/a/bg44Uxf
+album['view_count']
+  4542
+album['virality']
+  0
+album['vote']
+  None
+basename
+  
+bkey
+  
+category
+  imgur
+ckey
+  
+count
+  5
+created_at
+  2025-07-03T21:40:37Z
+date
+  2025-07-03 21:40:37
+description
+  Been posting a lot of Enji Night lately. I regert nothing. Not one letter.
+duration
+  0
+ext
+  png
+extension
+  png
+filename
+  D5aNHts
+has_sound
+  False
+height
+  1200
+id
+  D5aNHts
+is_animated
+  False
+is_looping
+  False
+mime_type
+  image/png
+name
+  
+num
+  1
+size
+  536095
+subcategory
+  album
+title
+  
+type
+  image
+updated_at
+  None
+url
+  https://i.imgur.com/D5aNHts.png
+width
+  800
